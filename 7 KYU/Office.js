@@ -18,7 +18,6 @@ The Office V - Find a Chair
 */
 
 
-
 function outed(meet, boss) {
     let totalScore = 0;
     let numPeople = 0;
